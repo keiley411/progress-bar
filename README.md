@@ -15,4 +15,4 @@ An application that displays progress when there's an input.
 * (https://github.com/keiley411/progress-bar.git)
 * code . or atom . depending on the text editor you are using.
 ## Technologies Used
-* [HTML5,JS,REACT]
+* [HTML5, JS, REACT]
