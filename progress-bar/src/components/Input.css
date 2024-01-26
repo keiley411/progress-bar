@@ -1,0 +1,11 @@
+.major {
+    height: 50px;
+     width: 500px;
+     border-radius: 50px;
+    background-color:rgb(8, 126, 8);
+}
+.main{
+    border-radius: 50px;
+    background-image: linear-gradient(rgb(128, 36, 0));
+    height: 25px;
+}
